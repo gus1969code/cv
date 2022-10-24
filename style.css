@@ -519,7 +519,7 @@ progress::-moz-progress-value {
   background-color: var(--white-color);
   display: flex;
   flex-direction: column;
-  max-width: 400px;
+  max-width: 300px;
   padding: 1rem;
 }
 .portfolio-modal h3 {
